@@ -9,8 +9,11 @@
 <script>
 	//引入组件
 	import School from './components/School'
+<<<<<<< HEAD
 	
 
+=======
+>>>>>>> ref
 	export default {
 		name:'App',
 		components:{
